@@ -3,7 +3,7 @@ layout: post
 title: Quines in python
 description: "Quines in python, how to create one?"
 modified: 2013-12-27
-tags: [python quine]
+tags: [python, quine]
 comments: false
 share: true
 ---
@@ -16,7 +16,7 @@ Quines are named after philosopher Willard Van Orman Quine (1908–2000), who ma
 "Yields falsehood when preceded by its quotation" yields falsehood when preceded by its quotation.
 
 
-Coming up with the simples quine is not hard...
+Coming up with simple quine in python is not hard...
 
 {% highlight bash %}
 s="s=%s;print s%%`s`";print s%`s`
