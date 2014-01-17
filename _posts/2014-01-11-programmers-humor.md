@@ -2,7 +2,7 @@
 layout: post
 title: Programmers' humor
 description: "Things you find funny if you're a programmer."
-modified: 2014-01-11
+modified: 2014-01-17
 tags: [humor]
 comments: false
 share: true
@@ -15,6 +15,7 @@ share: true
  - [Devops Reactions](http://devopsreactions.tumblr.com)
  - [shit.programmers.write();](http://shitprogrammerswrite.com)
  - [Programmer humor @ reddit](http://www.reddit.com/r/ProgrammerHumor/)
+ - [Cats on Containerization](http://containercats.tumblr.com)
 
 ### Jokes on stackoverflow
 
@@ -24,3 +25,4 @@ share: true
 ### Humours projects:
 
  - [Ikea or Death](http://ikeaordeath.com) - "[...] names of the furniture in IKEA sound a lot like the names of black metal bands"
+ - [Jargon generator](http://shinytoylabs.com/jargon/#) - Hollywood-grade technical jargon
