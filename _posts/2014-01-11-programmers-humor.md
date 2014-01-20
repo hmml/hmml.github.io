@@ -2,7 +2,7 @@
 layout: post
 title: Programmers' humor
 description: "Things you find funny if you're a programmer."
-modified: 2014-01-17
+modified: 2014-01-20
 tags: [humor]
 comments: false
 share: true
@@ -16,6 +16,7 @@ share: true
  - [shit.programmers.write();](http://shitprogrammerswrite.com)
  - [Programmer humor @ reddit](http://www.reddit.com/r/ProgrammerHumor/)
  - [Cats on Containerization](http://containercats.tumblr.com)
+ - [{"apis":"the joy"}](http://apijoy.tumblr.com)
 
 ### Jokes on stackoverflow
 
