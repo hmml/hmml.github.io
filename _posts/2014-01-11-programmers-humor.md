@@ -6,6 +6,8 @@ modified: 2014-01-23
 tags: [humor]
 comments: false
 share: true
+image:
+  feature: unsplash_52d5bbef8a613_1.JPG
 ---
 
 ### Assorted set of funny links, suitable for daily visits

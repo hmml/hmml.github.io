@@ -6,6 +6,8 @@ modified: 2013-12-27
 tags: [python, benford]
 comments: false
 share: true
+image:
+  feature: unsplash_522e11654ebff_1.jpg
 ---
 Have you heard about the [Benford's law](http://mathworld.wolfram.com/BenfordsLaw.html)? Apparently you can predict the first digit when number of statistical data is provided (any kind). 
 

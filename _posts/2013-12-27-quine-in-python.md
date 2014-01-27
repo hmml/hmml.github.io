@@ -6,6 +6,8 @@ modified: 2013-12-27
 tags: [python, quine]
 comments: false
 share: true
+image:
+  feature: unsplash_522af9ac823b4_1.jpg
 ---
 
 According to [wikipedia](http://en.wikipedia.org/wiki/Quine_(computing)):
